@@ -10,6 +10,6 @@ colors:
 http://jsfiddle.net/kubante/8bhkL300/
 
 both:
-http://jsfiddle.net/kubante/ubz466z5/
+http://jsfiddle.net/kubante/Les2uuz9/
 
 make sure you have enough width on your screen to see the fibonacci spiral coming up. 
