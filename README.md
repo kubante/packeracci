@@ -7,7 +7,7 @@ spiral:
 http://jsfiddle.net/kubante/gnusenqq/
 
 colors:
-http://jsfiddle.net/kubante/8bhkL300/
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/kubante/packeracci/master/packeracci%20_colors.html
 
 both:
 http://jsfiddle.net/kubante/Les2uuz9/
