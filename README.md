@@ -4,12 +4,16 @@ the awesome packery with the awesome fibonacci spiral
 demos here: 
 
 spiral:
-http://jsfiddle.net/kubante/gnusenqq/
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/kubante/packeracci/master/packeracci.html
 
 colors:
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/kubante/packeracci/master/packeracci%20_colors.html
 
 both:
-http://jsfiddle.net/kubante/Les2uuz9/
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/kubante/packeracci/master/packeracci%20_colors_spiral.html
 
-make sure you have enough width on your screen to see the fibonacci spiral coming up. 
+packeracci packeracci :) 
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/kubante/packeracci/master/packeracci_packeracci.html
+
+
+are you able to put everything back were it belongs? :) 
