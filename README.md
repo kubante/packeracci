@@ -1,5 +1,5 @@
 # packeracci
-the awesome <a href="http://packery.metafizzy.co">packery</a> with the awesome fibonacci spiral
+the awesome <a href="http://packery.metafizzy.co">packery</a> with a beautiful fibonacci spiral
 
 demos here: 
 
